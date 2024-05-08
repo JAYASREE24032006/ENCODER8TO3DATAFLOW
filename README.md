@@ -1,6 +1,6 @@
 ## Ex-5 ENCODER 8TO3 DATAFLOW Modelling
 
-**DATE : 23.03.2024**
+**DATE : 23.04.2024**
 
 **AIM:**
 
